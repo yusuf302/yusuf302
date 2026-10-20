@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yusuf Abdallah Jongo
+# Yusuf Jongo
 
 **Economist · Data Analyst · AI & Digital Solutions Builder**
 
