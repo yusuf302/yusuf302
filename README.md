@@ -8,7 +8,7 @@ Economic insight. Clear analysis. Practical digital tools.
 
 [Portfolio](https://yusuf-jongo.vercel.app/) · [Projects](https://github.com/yusuf302?tab=repositories) · [Email](mailto:yusuf.a.jongo@gmail.com)
 
-Dar es Salaam, Tanzania
+Tanzania
 
 </div>
 
